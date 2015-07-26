@@ -1,0 +1,23 @@
+{
+  "name": "bowling-score-calculator",
+  "version": "1.0.0",
+  "description": "Your task is to write a function for calculating the score of a 10 pin bowling game. The input for the function is a list of pins knocked down per roll for one player. Output is the player's total score.",
+  "main": "",
+  "dependencies": {
+    "chai": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdctenga/bowling-score-calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdctenga/bowling-score-calculator/issues"
+  },
+  "homepage": "https://github.com/mdctenga/bowling-score-calculator"
+}
